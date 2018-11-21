@@ -54,6 +54,6 @@ contribution budget? There are many projects and developers who would appreciate
 
 Thanks for your time!
 
-[repo]: https://github.com/cdibbs/oss-giving
+[repo]: https://github.com/cdibbs/foss-giving
 [Mint]: https://mint.com
 [options]: #donation-options
