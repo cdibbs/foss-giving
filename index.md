@@ -20,7 +20,7 @@ TL;DR - If you've come to support this author or one of his FOSS-ter projects, t
 | Bitcoin  | 33pypS6oRmgmvMwAnX5rpJAaxnqScxSALS
 
 Thanks in advance for your support! If you want the author to know which project you appreciated,
-a form is provided on the [thank you page](foss-giving/thank-you).
+a form is provided on the [thank you page](thank-you).
 
 Note: the author of this site isn't running a non-profit. Contributions through this site
 should be thought of like crowdfunding, giving a gift to a friend, or buying a software license
