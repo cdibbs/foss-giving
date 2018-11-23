@@ -7,7 +7,7 @@ TL;DR - If you've come to support this author or one of his FOSS-ter projects, t
 ### Paypal
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
 <input type="hidden" name="cmd" value="_s-xclick" />
-<input type="hidden" name="hosted_button_id" value="VWW8VC8LYPMPJ" />
+<input type="hidden" name="hosted_button_id" value="3TXQ244W888D6" />
 <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Donate with PayPal button" />
 <img alt="" border="0" src="https://www.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1" />
 </form>
@@ -55,6 +55,6 @@ could it be time to consider being more rigorous in your contribution budget?
 
 Thanks for your consideration and time!
 
-[repo]: https://github.com/cdibbs/oss-giving
+[repo]: https://github.com/cdibbs/foss-giving
 [Mint]: https://mint.com
 [options]: #donation-options
