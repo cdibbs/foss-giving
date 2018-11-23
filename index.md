@@ -1,6 +1,6 @@
 # Furthering FOSS through giving
 
-TL;DR - If you've come to support this author or his FOSS-ter projects, thank you! Here are the options.
+TL;DR - If you've come to support this author or one of his FOSS-ter projects, thank you! Here are the options.
 
 ## Donation options
 
@@ -23,36 +23,37 @@ Thanks in advance for your support!
 
 ## The bigger picture
 Now, this author would humbly like to ask that you take a few minutes to give broader thought to your
-open source contributions. If you haven't donated, yet, and wish to do that first, there will be a link
-on the Thank You page back to the thoughts, below.
+open source contributions--both you maintainers, and you who appreciate us enough to donate. By the way,
+if you haven't donated, yet, and wish to do that first, there will be a link to return here on the
+Thank You page.
 
 ### The problem
 How many open source projects have you come across that contain elegant and useful bits of software that
-appear to have been abandoned by their authors before drawing a healthy community? Too many, I'll bet,
-if you've spent much time working with open source. It's always heartbreaking to see, and you wish the
-author would put up a donation page for encouragement.
+appear to have been abandoned by their authors? Too many, right? How unfortunate is that?
 
-By the way, if you are such an author, don't feel guilty - development takes a lot of time and energy, and
-sometimes the currency of pure enjoyment runs out before it gets you through the doldrums that come with many
-projects. So, please fork [this document's repo][repo], steal this page and its siblings, and set up your own
-doldrum support page.
+If you are such an author, don't feel guilty - development takes a lot of time and energy, and
+the psychology of sticking with it can be an uphill battle. Sometimes the currency of pure enjoyment
+runs out before it gets you through the doldrums that come with most projects, and only a minority of
+all projects have the potential to justify incorporating and ditching your day job. So, please fork
+[this document's repo][repo], steal this page and its siblings, and set up your own doldrum support page.
 
 If nothing else, it's nice when the community buys you a beer or two. :-)
 
 ### What or who are you supporting?
-When supporting open source software, its just as important to support individual developers as it is to support
-projects you like. You can say, "I want this project to flourish," and "I want this developer to flourish." Both
-have their place.
+When financially supporting open source software, its just as important to support individual developers as it
+is to support projects you like. You can say, "I want this project to flourish," and "I want this developer to
+flourish." Both have their place.
 
 With all the time and effort it takes not only to develop quality software, but handle support, too, perhaps we
 can help more talented developers afford to spend more time while still living a balanced life.
 
 ### For your consideration
-Software such as [Mint] can help you track, categorise, and update your contributions. Perhaps your own bank
-provides a similar functionality. Either way, could it be time to consider being more rigorous in your 
-contribution budget? There are many projects and developers who would appreciate your support.
+There are many projects and developers who would appreciate your support. What do you currently contribute to
+open source, in general, each year? If you don't already know, software such as [Mint] can help you track,
+categorise, and update your contributions. Perhaps your own bank provides a similar functionality. Either way,
+could it be time to consider being more rigorous in your contribution budget?
 
-Thanks for your time!
+Thanks for your consideration and time!
 
 [repo]: https://github.com/cdibbs/oss-giving
 [Mint]: https://mint.com
