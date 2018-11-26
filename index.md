@@ -50,7 +50,7 @@ is to support projects you like. You can say, "I want this project to flourish,"
 flourish." Both have their place.
 
 With all the time and effort it takes not only to develop quality software, but handle support, too, perhaps we
-can help more talented developers afford to spend more time while still living a balanced life.
+can help more talented developers afford to spend more time developing quality open source while still living a balanced life.
 
 ### For your consideration
 There are many projects and developers who would appreciate your support. What do you currently contribute to
